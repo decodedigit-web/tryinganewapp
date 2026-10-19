@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         myWebView.setWebViewClient(new WebViewClient());
 
         // YOUR WEBSITE URL HERE:
-        myWebView.loadUrl("https://yourwebsite.com");
+        myWebView.loadUrl("https://little-base-c942.decodedigit.workers.dev/");
     }
 
     @Override
